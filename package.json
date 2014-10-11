@@ -1,0 +1,21 @@
+{
+	"name": "miyojs-filter-value_filters",
+	"version": "0.0.1",
+	"description": "value_filters - filter for setting value_filters for Miyo",
+	"main": "value_filters.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+		"miyoshiori" : ">= 0.0.1"
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/miyojs-filter-value_filters.git"
+	}
+}
